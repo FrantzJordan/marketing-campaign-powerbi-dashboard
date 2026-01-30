@@ -34,5 +34,12 @@ Tracks missing values, duplicates, and reporting reliability.
 - DAX Measures
 - Star Schema Modeling
 
+## 🚀 How to Use
+1. Download the CSV files
+2. Open the `.pbix` file in Power BI Desktop
+3. Refresh the dataset
+4. Explore dashboards and drill-down interactions
+
 ## Author
 Jordan Tchemou  
+
