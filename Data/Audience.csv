@@ -1,0 +1,101 @@
+Audience_ID,Audience_Label,Segment_Group
+1,All 35-44,Youth
+2,Women 45-54,Adults
+3,Women 18-24,Seniors
+4,All 25-34,Youth
+5,All 35-44,Adults
+6,Men 35-44,Adults
+7,All 55+,Youth
+8,All 35-44,All Ages
+9,Men 18-24,Seniors
+10,Women 25-34,Youth
+11,Men 55+,Youth
+12,Men 45-54,Youth
+13,All 25-34,Adults
+14,All 45-54,Adults
+15,Women 55+,All Ages
+16,Men 55+,Adults
+17,All 35-44,All Ages
+18,All 35-44,All Ages
+19,All 45-54,Youth
+20,Men 25-34,Youth
+21,Women 18-24,Adults
+22,All 25-34,Youth
+23,Men 18-24,Adults
+24,Men 18-24,Seniors
+25,Men 55+,Adults
+26,Women 45-54,Adults
+27,All 25-34,All Ages
+28,Men 45-54,All Ages
+29,Men 18-24,Youth
+30,All 45-54,Seniors
+31,Women 45-54,All Ages
+32,All 18-24,Youth
+33,Men 45-54,Seniors
+34,Men 25-34,Adults
+35,Men 55+,All Ages
+36,Men 45-54,Adults
+37,Women 45-54,Adults
+38,Men 45-54,Youth
+39,Men 55+,Youth
+40,Men 25-34,Adults
+41,Women 45-54,All Ages
+42,Men 45-54,Youth
+43,Men 45-54,Youth
+44,Women 35-44,All Ages
+45,Women 45-54,All Ages
+46,Men 25-34,Seniors
+47,Men 18-24,Youth
+48,All 35-44,Youth
+49,Men 55+,All Ages
+50,All 55+,Adults
+51,Men 55+,Youth
+52,Men 18-24,Youth
+53,All 25-34,All Ages
+54,Men 55+,Adults
+55,All 55+,Youth
+56,All 18-24,All Ages
+57,All 55+,Seniors
+58,Women 25-34,Seniors
+59,Men 35-44,All Ages
+60,Men 35-44,All Ages
+61,Women 18-24,Youth
+62,Women 55+,Youth
+63,Men 55+,Adults
+64,All 35-44,Adults
+65,Women 18-24,Adults
+66,Women 35-44,Adults
+67,Women 55+,Seniors
+68,All 55+,Youth
+69,All 55+,Seniors
+70,All 18-24,Adults
+71,Women 18-24,Youth
+72,All 55+,Adults
+73,Women 35-44,Adults
+74,All 35-44,Adults
+75,All 35-44,All Ages
+76,Women 18-24,Youth
+77,All 45-54,Seniors
+78,Men 18-24,Seniors
+79,Men 35-44,Adults
+80,All 45-54,All Ages
+81,All 18-24,Youth
+82,Men 25-34,Youth
+83,Women 55+,Adults
+84,Women 25-34,Youth
+85,Women 35-44,Youth
+86,Women 25-34,Adults
+87,All 18-24,Seniors
+88,All 45-54,Adults
+89,Men 25-34,Adults
+90,Women 18-24,Adults
+91,All 35-44,All Ages
+92,All 25-34,Seniors
+93,Men 18-24,All Ages
+94,Men 45-54,Adults
+95,Men 45-54,Seniors
+96,Women 25-34,Adults
+97,Men 25-34,All Ages
+98,Women 35-44,Youth
+99,Women 35-44,All Ages
+100,All 55+,Seniors
